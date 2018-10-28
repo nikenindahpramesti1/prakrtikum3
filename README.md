@@ -10,7 +10,7 @@
 6. print bilangan terbesar dari semua bilangan yang di inputkan.
 
 **flowchart Program**
-![flowchart]()
+![flowchart](https://raw.githubusercontent.com/nikenindahpramesti1/prakrtikum3/master/praktikum3/flowchart%20latihan1.jpg)
 
 **CODE PROGRAM**
 ```c++
@@ -36,7 +36,7 @@ int main ()
 }
 ```
 **HASIL**
-![img] ()
+![img] (https://raw.githubusercontent.com/nikenindahpramesti1/prakrtikum3/master/praktikum3/hasil%20latihan1.png)
 
 ## Latihan2.cpp 
 
@@ -63,7 +63,7 @@ int main ()
 
 
 ** Flowchart Program**
-![flowchart]()
+![flowchart](https://raw.githubusercontent.com/nikenindahpramesti1/prakrtikum3/master/praktikum3/flowchart%20latihan2.jpg)
 
 **CODE PROGRAM**
 ```c++
@@ -103,7 +103,7 @@ int main()
 }
 ```
 **HASIL**
-![img]()
+![img](https://raw.githubusercontent.com/nikenindahpramesti1/prakrtikum3/master/praktikum3/hasil%20latihan2.png)
 
 ## Latihan3.cpp 
 
@@ -122,7 +122,7 @@ int main()
 
 
 **Flowchart Program**
-![flowchart]()
+![flowchart](https://raw.githubusercontent.com/nikenindahpramesti1/prakrtikum3/master/praktikum3/flowchart%20latihan3.jpg)
 
 **CODE PROGRAM**
 ```c++
@@ -160,4 +160,4 @@ int main()
 ```
 
 **HASIL**
-![img]()
+![img](https://raw.githubusercontent.com/nikenindahpramesti1/prakrtikum3/master/praktikum3/hasil%20latihan3.png)
